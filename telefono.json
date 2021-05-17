@@ -1,0 +1,16 @@
+mistelefonos([
+{
+    "marca" :"samsung",
+    "so": "android",
+    "meoria": "128GB",
+    "pantalla ": "5.4",
+    "foto": "./imagen/samsung.jpg"
+},
+{
+    "marca" :"xiaomi",
+    "so": "symbian",
+    "meoria": "64GB",
+    "pantalla ": "5.5",
+    "foto": "./imagen/xiaomi.jpg"
+}
+]);
